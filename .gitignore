@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints
+data/data-with-tags.csv
+data-with-tags.csv
+data/MetObjects.csv
+data/
